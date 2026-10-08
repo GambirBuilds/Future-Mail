@@ -1,0 +1,6 @@
+{
+  "name": "FutureMail",
+  "description": "Messages from Today. Memories for Tomorrow. A futuristic time-capsule messaging platform to send letters across time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
